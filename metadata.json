@@ -1,0 +1,5 @@
+{
+  "name": "Employee Real-time Attendance Tracker",
+  "description": "A real-time dashboard for tracking employee check-ins and check-outs with live updates.",
+  "requestFramePermissions": []
+}
